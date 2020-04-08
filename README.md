@@ -22,7 +22,8 @@ They were assignments for the following course: **COMP3270 - Introduction to Art
 - Informed Search
 - Local Search
 
-#### Score - 
+#### Score 
+23 / 23
 #### Date of Completion - October 1, 2019
 
 ### [Set 2](https://github.com/TheConMiz/berkeleyAI/blob/master/Set%202/Instructions.pdf)
@@ -30,7 +31,8 @@ They were assignments for the following course: **COMP3270 - Introduction to Art
 <!-- #### Content -->
 
 
-#### Score - 
+#### Score
+16 / 26
 #### Date of Completion - October 22, 2019
 
 ### [Set 3](https://github.com/TheConMiz/berkeleyAI/blob/master/Set%203/Instructions.pdf)
@@ -48,7 +50,8 @@ November 24, 2019
 
 <!-- #### Content -->
 
-#### Score - 
+#### Score
+25 / 25
 
 #### Date of Completion - 
 December 14, 2019
